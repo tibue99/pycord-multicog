@@ -19,7 +19,7 @@ setup(
     author="Dorukyum",
     url="https://github.com/Dorukyum/pycord-multicog",
     keywords="Pycord",
-    install_requires=["py-cord>=2.5.0"],
+    install_requires=["py-cord"],
     classifiers=classifiers,
     project_urls={"Source": "https://github.com/Dorukyum/pycord-multicog"},
 )
